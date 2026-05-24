@@ -13,7 +13,8 @@ I am a self-taught Software Developer who cares deeply about the frontend user e
 * **Frontend & Mobile:** React.js, Flutter (BLoC), Progressive Web Apps (PWA)
 * **Backend:** C# .NET Core (.NET 8, .NET 10), Node.js, Express, Socket.IO, SignalR
 * **Databases & Architecture:** SQL Server (T-SQL), Quartz.NET
-* **Tools:** Git, Android Studio, VS Code
+* **AI & Modern Workflows:** Antigravity IDE, GUI Antigravity, Antigravity CLI, Open Design
+* **Tools:** Git, Android Studio, VS Code, Visual Studio
 
 ## Work Experience
 **Software Developer @ Auto Motion Works** *(Feb 2023 - Present)*
