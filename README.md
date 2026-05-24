@@ -23,6 +23,3 @@ I am a self-taught Software Developer who cares deeply about the frontend user e
 * **Web Optimization:** Refactored Excel file uploads to parse spreadsheet data client-side in React (preventing server memory spikes) and implemented bulk JSON parsing inside SQL Server for HR evaluation tools.
 * **Progressive Features:** Upgraded web applications to Progressive Web Apps (PWA) and integrated VAPID Web Push notifications.
 * **Data Management:** Normalized inconsistent data from legacy ERP imports by designing variant mapping tables to match and convert string discrepancies into relational IDs.
-
----
-*Feel free to reach out to me for collaboration or opportunities!*
