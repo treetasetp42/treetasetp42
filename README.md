@@ -8,6 +8,10 @@
 ## About Me
 I am a self-taught Software Developer who cares deeply about the frontend user experience while managing complex backend logic. I actively integrate AI assistants into my daily development process to accelerate my learning curve, debug efficiently, and build reliable company applications.
 
+## Currently Focusing On
+* **AI Workflows & API Integration:** Deepening my knowledge of AI-assisted development, prompt engineering (including context adaptation and strict guardrails), and integrating various third-party APIs into practical projects.
+* **Language Proficiency:** Actively practicing and improving my English communication skills for technical documentation and collaboration.
+
 ## Tech Stack & Tools
 * **Programming Languages:** C#, JavaScript, Dart, SQL, HTML, CSS
 * **Frontend & Mobile:** React.js, Flutter (BLoC), Progressive Web Apps (PWA)
