@@ -13,12 +13,14 @@ I am a self-taught Software Developer who cares deeply about the frontend user e
 * **Language Proficiency:** Actively practicing and improving my English communication skills for technical documentation and collaboration.
 
 ## Tech Stack & Tools
-* **Programming Languages:** C#, JavaScript, Dart, SQL, HTML, CSS
-* **Frontend & Mobile:** React.js, Flutter (BLoC), Progressive Web Apps (PWA)
-* **Backend:** C# .NET Core (.NET 8, .NET 10), Node.js, Express, Socket.IO, SignalR
-* **Databases & Architecture:** SQL Server (T-SQL), Quartz.NET
+* **Programming Languages:**  C#, JavaScript, SQL, HTML, CSS, Dart
+* **Frontend & Mobile:** React.js, Next.js, Flutter (BLoC), Progressive Web Apps (PWA)
+* **Backend:**  C# .NET Core, .NET 8/10
+* **Databases & Cloud Infrastructure:** SQL Server, Microsoft Azure, Vercel
 * **AI & Modern Workflows:** Antigravity IDE, GUI Antigravity, Antigravity CLI, Open Design
-* **Tools:** Git, Android Studio, VS Code, Visual Studio
+* **Development Tools:** Git / Github, Postman, Android Studio, VS Code, Visual Studio, Antigravity IDE
+* **Design & 3D Modeling:** Autodesk Fusion, FreeCAD, Blender, SketchUp, Adobe Creative Cloud (Illustrator,
+Photoshop, Premiere Pro, After Effects)
 
 ## Work Experience
 **Software Developer @ Auto Motion Works** *(Feb 2023 - Present)*
