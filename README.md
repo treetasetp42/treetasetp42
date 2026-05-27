@@ -13,12 +13,12 @@ I am a self-taught Software Developer who cares deeply about the frontend user e
 * **Language Proficiency:** Actively practicing and improving my English communication skills for technical documentation and collaboration.
 
 ## Tech Stack & Tools
-* **Programming Languages:**  C#, JavaScript, SQL, HTML, CSS, Dart
+* **Programming Languages:**  C#, JavaScript, SQL, Dart
 * **Frontend & Mobile:** React.js, Next.js, Flutter (BLoC), Progressive Web Apps (PWA)
 * **Backend:**  C# .NET Core, .NET 8/10
-* **Databases & Cloud Infrastructure:** SQL Server, Microsoft Azure, Vercel
+* **Databases & Cloud Infrastructure:** SQL Server, Microsoft Azure
 * **AI & Modern Workflows:** Antigravity IDE, GUI Antigravity, Antigravity CLI, Open Design
-* **Development Tools:** Git / Github, Postman, Android Studio, VS Code, Visual Studio, Antigravity IDE
+* **Development Tools:** Git / Github, Postman, Android Studio
 * **Design & 3D Modeling:** Autodesk Fusion, FreeCAD, Blender, SketchUp, Adobe Creative Cloud (Illustrator,
 Photoshop, Premiere Pro, After Effects)
 
